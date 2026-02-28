@@ -1,5 +1,5 @@
 # MegaCorp Internal Tools Build
-
+> Note: Ensure you are connected to the corporate VPN before running the local server.
 **CONFIDENTIAL**: This repository contains proprietary internal tools for MegaCorp employees only. Unauthorized access, distribution, or reproduction is strictly prohibited.
 
 ## Prerequisites
